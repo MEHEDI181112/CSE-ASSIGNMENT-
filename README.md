@@ -1,5 +1,6 @@
-# CSE-ASSIGNMENT-
-01. 
+#CSE-ASSIGNMENT-
+
+Assignment_01 
 
 #include<stdio.h>
 
@@ -15,7 +16,7 @@ main(){
 }
 
 
-02.
+Assignment_02
 
 #include<stdio.h>
 
