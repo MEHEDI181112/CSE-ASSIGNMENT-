@@ -2,6 +2,7 @@
 01. 
 
 #include<stdio.h>
+
 main(){
     
     int row,col;
@@ -17,6 +18,7 @@ main(){
 02.
 
 #include<stdio.h>
+
 main(){
     
     int row,col,count=1;
